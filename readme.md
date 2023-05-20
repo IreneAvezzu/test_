@@ -22,11 +22,4 @@ graph TD;
   Homepage-->Profile;
   Homepage-->About_us;
   Homepage-->App_information;
-  Add_page-->Add_outfit;
-  Add_page-->Add_item;
-  Add_outfit-->Homepage;
-  Add_item-->Homepage;
-  Profile-->edit_account;
-  Profile-->delete_account;
-  Profile-->logout;
 ```
