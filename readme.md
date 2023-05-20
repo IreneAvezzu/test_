@@ -17,11 +17,9 @@ graph TD;
   Homepage-->Dresses;
   Homepage-->Accessorise;
   Homepage-->Favourites;
-  Homepage-->Outfits1;
-  Homepage-->Add_page1;
-  Homepage-->Profile1;
-  Homepage-->About_us1;
-  Homepage-->App_information1;
+  Homepage-->Outfits;
+  Homepage-->Add_page;
+  Homepage-->Profile;
   
   Add_page-->Add_outfit;
   Add_page-->Add_item;
