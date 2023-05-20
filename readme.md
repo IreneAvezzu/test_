@@ -12,7 +12,7 @@ graph TD;
   Login-->Homepage;
   Homepage-->About_us;
   Homepage-->App_information;
-  Homepage-->Profile_page;
+  Homepage-->Add_page;
   Homepage-->All_items;
   Homepage-->Tops;
   Homepage-->Bottoms;
@@ -20,7 +20,6 @@ graph TD;
   Homepage-->Accessorise;
   Homepage-->Favourites;
   Homepage-->Outfits;
-  Homepage-->Add_page;
   Homepage-->Profile;
   
   Add_page-->Add_outfit;
