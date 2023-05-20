@@ -7,6 +7,7 @@ graph TD;
   App_launch-->Load_application_from_json_file;
   Load_application_from_json_file-->Login_page;
   Login_page-->Sign_up;
+  Sign_up-->Login_page;
   Login_page-->Login;
   Login-->Homepage;
   Homepage-->Profile_page;
