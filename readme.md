@@ -26,5 +26,7 @@ graph TD;
   Profile-->edit_account;
   Profile-->delete_account;
   Profile-->logout;
-
+  
+  Homepage-->About_us;
+  Homepage-->App_information;
 ```
