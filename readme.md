@@ -12,19 +12,14 @@ graph TD;
   Login-->Homepage;
   Homepage-->About_us;
   Homepage-->App_information;
+  Homepage-->Profile;
   Homepage-->All_items;
   Homepage-->Tops;
   Homepage-->Bottoms;
   Homepage-->Dresses;
-  Homepage-->Add_page;
   Homepage-->Accessorise;
   Homepage-->Favourites;
   Homepage-->Outfits;
-  Homepage-->Profile;
-  
-  Add_page-->Add_outfit;
-  Add_page-->Add_item;
-  Profile-->edit_account;
-  Profile-->delete_account;
-  Profile-->logout;
+  Homepage-->Add_page;
+ 
 ```
