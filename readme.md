@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD;
-  App launch -->Load application from json file;
+  App_launch -->Load_application_from_json_file;
   Item-->Top;
   Item-->Bottom;
   Item-->Dress;
