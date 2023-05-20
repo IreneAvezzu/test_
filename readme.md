@@ -10,6 +10,8 @@ graph TD;
   Sign_up-->Login_page;
   Login_page-->Login;
   Login-->Homepage;
+  Homepage-->About_us;
+  Homepage-->App_information;
   Homepage-->Profile_page;
   Homepage-->All_items;
   Homepage-->Tops;
@@ -26,7 +28,4 @@ graph TD;
   Profile-->edit_account;
   Profile-->delete_account;
   Profile-->logout;
-  
-  Homepage-->About_us;
-  Homepage-->App_information;
 ```
