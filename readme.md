@@ -5,7 +5,7 @@
 ```mermaid
 graph TD;
   App_launch-->Load_application_from_json_file;
-  Load_application_from_json_file-->Log_in;
+  Load_application_from_json_file-->Login_page;
   Login_page-->Sign_up;
   Login_page-->Login;
   Login-->Homepage;
@@ -24,9 +24,4 @@ graph TD;
   Profile-->edit_account;
   Profile-->delete_account;
   Profile-->logout;
-  
-  Item-->Top;
-  Item-->Bottom;
-  Item-->Dress;
-  Item-->Accessorize;
 ```
